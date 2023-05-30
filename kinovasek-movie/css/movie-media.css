@@ -1,0 +1,20 @@
+@media only screen and (max-width: 600px){
+    .title{
+        font-size: 22px;
+        font-weight: normal;
+    }
+    .navigation__button{
+        padding: 10px 15px;
+        font-size: 15px;
+    }
+    .categories__card{
+        font-size: 18px;
+        height: 80px;
+    }
+    .categories__card i{
+        font-size: 20px;
+    }
+    .tabPanel p, .comments p, .templ__video p, .header__pagename p{
+        font-size: 13px;
+    }
+}
